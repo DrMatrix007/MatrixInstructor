@@ -1,0 +1,8 @@
+.Navbar {
+    background-color: dimgrey;
+    padding: 10px ;
+}
+.Navbar > * {
+    padding: 2px;
+    margin:10px;
+}
